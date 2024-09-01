@@ -1,0 +1,1 @@
+/home/gwen/Desktop/root/hme/crk/ccd/dy/rustroot/aoc23/dtwo/target/debug/dtwo: /home/gwen/Desktop/root/hme/crk/ccd/dy/rustroot/aoc23/dtwo/src/assets/dtwo.txt /home/gwen/Desktop/root/hme/crk/ccd/dy/rustroot/aoc23/dtwo/src/main.rs
